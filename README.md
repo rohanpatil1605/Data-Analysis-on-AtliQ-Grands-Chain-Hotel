@@ -4,12 +4,19 @@ This project involves the creation of a comprehensive Power BI dashboard for Atl
 Key Metrics
 The dashboard features several crucial metrics:
 
-Revenue: Total income generated from hotel bookings.
-RevPAR (Revenue Per Available Room): Revenue earned per available room.
-DSRN (Daily Sellable Room Nights): Total number of room nights available for sale daily.
-Occupancy %: Percentage of rooms occupied relative to the total number of available rooms.
-ADR (Average Daily Rate): Average revenue earned per occupied room.
-Realization: Ratio of utilized rooms to booked rooms.
+1) Revenue: Total income generated from hotel bookings.
+ 
+2)RevPAR (Revenue Per Available Room): Revenue earned per available room.
+
+3)DSRN (Daily Sellable Room Nights): Total number of room nights available for sale daily.
+
+4)Occupancy %: Percentage of rooms occupied relative to the total number of available rooms.
+
+5)ADR (Average Daily Rate): Average revenue earned per occupied room.
+
+6)Realization: Ratio of utilized rooms to booked rooms.
+
+
 Visualizations
 Key Metrics Overview:
 
